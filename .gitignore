@@ -1,0 +1,21 @@
+# Données (trop volumineuses pour GitHub)
+row_data/
+renamed_data/
+clean_data/
+*.csv
+*.csv.gz
+*.parquet
+*.pkl
+*.ok
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Éditeurs et système
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
