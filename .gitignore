@@ -8,6 +8,10 @@ clean_data/
 *.pkl
 *.ok
 
+# Exception : résumés par zone (petits fichiers, résultats du projet)
+!agg_data/
+!agg_data/*.csv
+
 # Jupyter / Python
 .ipynb_checkpoints/
 __pycache__/
